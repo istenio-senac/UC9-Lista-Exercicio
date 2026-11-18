@@ -1,0 +1,16 @@
+Questão 01 – Teste de mesa em algoritmo sequencial
+Faça o teste de mesa do algoritmo abaixo, mostrando o valor de cada variável linha a
+linha, e informe o que será exibido na tela. Depois, digite e execute no Portugol Studio
+para conferir.
+inteiro a = 5, b = 3, c
+c = a + b * 2
+a = c - a
+b = a + b
+escreva(a, " ", b, " ", c)
+----------------------------------teste de mesa--------------------------
+
+a b c
+5 3 ?
+5 3 11
+6 3 11
+6 9 11
